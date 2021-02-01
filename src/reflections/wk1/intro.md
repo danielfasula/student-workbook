@@ -6,4 +6,4 @@
 
 ---
 
-**Nearing Midnight.**
+**At Midnight.**
