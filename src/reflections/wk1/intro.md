@@ -2,7 +2,7 @@
 
 ## My Sub Title
 
-When does the Narwhal bacon? 
+*When does the Narwhal bacon?*
 
 ---
 
