@@ -6,4 +6,4 @@ When does the Narwhal bacon?
 
 ---
 
-Nearing Midnight.
+**Nearing Midnight.**
