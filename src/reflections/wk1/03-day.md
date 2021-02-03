@@ -16,7 +16,11 @@
 
 ## Personal Journal Entry
 
+    Today we learned about bootstrap. Boy does bootstrap make styling easier. Can't wait to put bootstrap more into practice.
 
 
 ## Day 3 Project
 
+https://github.com/danielfasula/smiley-grid
+
+https://github.com/danielfasula/two-grid-tricks
