@@ -66,11 +66,11 @@ font-weight
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+It changes the positioning of your elements, allowing you to put different elements side to side instead of stacked ontop of eachother.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+width and height
 ```
