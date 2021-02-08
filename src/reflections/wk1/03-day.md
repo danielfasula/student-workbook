@@ -1,4 +1,4 @@
-# Journal Day 3
+# Journal Day 3 - Week 1
 
 ## Daily Journal Questions
 
@@ -19,7 +19,7 @@
     Today we learned about bootstrap. Boy does bootstrap make styling easier. Can't wait to put bootstrap more into practice.
 
 
-## Day 3 Project
+## Day 3 - Week 1 Project
 
 https://github.com/danielfasula/smiley-grid
 

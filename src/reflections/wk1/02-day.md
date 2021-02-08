@@ -1,4 +1,4 @@
-# Journal Day 2
+# Journal Day 2 - Week 1
 
 ## Daily Journal Questions
 
@@ -20,7 +20,7 @@
 
     Day 2 was so much fun. I already feel much more confident about my CSS abilities than I was during my Half-Stack course 2 years ago. Trying to replicate the "Cool Website" was challenging, but very fun at the same time. Seeing just how much you can really customize your website is a bit overwhelming, but also very exciting.
 
-## Day 2 Project
+## Day 2 - Week 1 Project
 
 https://github.com/danielfasula/cool-website
 

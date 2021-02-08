@@ -1,4 +1,4 @@
-# Journal Day 4
+# Journal Day 4 - Week 1
 
 ## Daily Journal Questions
 
@@ -24,6 +24,6 @@
 
     Today was our first partner project. Learning to work well with others will be an important skill to have. Being able to discuss ideas without being too demanding or emotional is probably the hardest thing to overcome for some people. It was a lot of fun working with Dallen today. He was just as eager as I was to learn new things and finish the project while having as much fun as possible.
 
-## Day 4 Project
+## Day 4 - Week 1 Project
 
 https://github.com/danielfasula/geek-den-clone
