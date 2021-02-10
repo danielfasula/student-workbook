@@ -5,7 +5,7 @@
 var, let, const
 ```
 **2.** What is the definition of a function?
-<!-- enter you answer in the space below -->
+<!-- enter your answer in the space below -->
 ```
 
 ```

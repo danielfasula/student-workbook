@@ -17,5 +17,9 @@
 
 ## Personal Journal Entry
 
+    Bruh, day 2 was R U F F. Putting the loops and arrays into practice was very difficult. Even having prior knowledge on writing functions didn't help today. Hopefully things will start stringing along and get the hang of everything.
+
 
 ## Day 2 Week 2 Project
+
+https://github.com/danielfasula/js-tests-loops-and-arrays
