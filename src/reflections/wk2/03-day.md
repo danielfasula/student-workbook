@@ -19,5 +19,8 @@
 
 ## Personal Journal Entry
 
+    Today felt much better than Monday and Tuesday. I feel like coding in a more practical sense, with a bigger overall goal, made much more sense than the challenges, but I see the importance of knowing how to code on those smaller scales. I feel really proud of how my afternoon project turned out, especially since I was able to compare it to my previous "Rock Paper Scissors" project from the first time I took this course. The differences were night and day.
 
 ## Day 3 Week 2 Project
+
+https://danielfasula.github.io/rock-paper-scissors/
