@@ -16,5 +16,9 @@
 
 ## Personal Journal Entry
 
+    Today was kind of a rough one. The partner project kind of through me off. Trying to balance not taking over the project and letting others contribute, but also not being overrun by others. I'm sure by the end of the program I'll learn how to better work in groups.
+
 
 ## Day 4 Week - 2 Project
+
+https://github.com/danielfasula/SlapGame
