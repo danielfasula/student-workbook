@@ -1,0 +1,8 @@
+# Journal Day 3 - Week 6
+
+## Daily Journal Questions
+
+## Personal Journal Entry
+
+
+## Day 3 Week 6 -  Project
