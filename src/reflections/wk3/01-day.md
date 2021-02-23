@@ -17,7 +17,7 @@
 
 ## Personal Journal Entry
 
-    Today was mainly a refresher. I feel pretty comfortable with classes and constructors. But I'm definitely not letting my guard down. I know something will sneak up on me this week and take me by surprise.
+Today was mainly a refresher. I feel pretty comfortable with classes and constructors. But I'm definitely not letting my guard down. I know something will sneak up on me this week and take me by surprise.
 
 ## Day 1 Week 3 -  Project
 

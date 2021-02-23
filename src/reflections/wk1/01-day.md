@@ -17,7 +17,7 @@
 
 ## Personal Journal Entry
 
-    First day went really well. We were able to meet the instructors and staff that we will be working with for the next 3 months. I can tell that they all love what they do, and really care about our success; and that makes me feel more confident in diving head first into this course and carreer path. Very excited to see how these next few months will go!
+ First day went really well. We were able to meet the instructors and staff that we will be working with for the next 3 months. I can tell that they all love what they do, and really care about our success; and that makes me feel more confident in diving head first into this course and carreer path. Very excited to see how these next few months will go!
 
 
 ## Day 1 - Week 1 Project

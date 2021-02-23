@@ -14,5 +14,7 @@
 
 ## Personal Journal Entry
 
+ Pizza shack was extremely helpful in learning about MVC patterns. It really helped make sense of templates, and injecting templates from one model into another template. In hindsight, the Toppings to Pizza models really helped with this weekends Task Manager checkpoint, and being able to tie the Tasks into the lists.
+
 
 ## Day 4 Week 3 -  Project

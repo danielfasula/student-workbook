@@ -19,7 +19,7 @@
 
 ## Personal Journal Entry
 
-    Things are definitely making more sense to me now. Being able to apply everything we've learned the first two weeks into a single application, all while condensing the files withing the modules is extremely helpful. Can't wait to see whats next!
+ Things are definitely making more sense to me now. Being able to apply everything we've learned the first two weeks into a single application, all while condensing the files withing the modules is extremely helpful. Can't wait to see whats next!
 
 
 ## Day 2 Week 3 -  Project

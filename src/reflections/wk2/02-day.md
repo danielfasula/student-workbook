@@ -17,9 +17,9 @@
 
 ## Personal Journal Entry
 
-    Bruh, day 2 was R U F F. Putting the loops and arrays into practice was very difficult. Even having prior knowledge on writing functions didn't help today. Hopefully things will start stringing along and get the hang of everything.
+ Bruh, day 2 was R U F F. Putting the loops and arrays into practice was very difficult. Even having prior knowledge on writing functions didn't help today. Hopefully things will start stringing along and get the hang of everything.
 
-    Going to the first fireside definitely helped me understand things a little bit more. I'm definitely going to make sure I attend all of them from here on out. Darryl does a great job explaining things during class, but it's nice to get a different point of view from another instructor.
+ Going to the first fireside definitely helped me understand things a little bit more. I'm definitely going to make sure I attend all of them from here on out. Darryl does a great job explaining things during class, but it's nice to get a different point of view from another instructor.
 
 
 ## Day 2 Week 2 Project

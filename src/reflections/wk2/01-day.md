@@ -17,7 +17,7 @@
 
 ## Personal Journal Entry
 
-    Day 1 of Javascript was just as challenging I had expected it to be. The js-basic-tests started somewhat easy, then really ramped up to be extremely difficult. Everything for the most part was simple once I was able to find the correct documents in w3schools, except for the 'switch' statements. I couldn't quite grasp what the first question was asking for me to do. But I'm sure once we go over it in class tomorrow, it'll be something I overlooked and overcomplicated myself. 
+ Day 1 of Javascript was just as challenging I had expected it to be. The js-basic-tests started somewhat easy, then really ramped up to be extremely difficult. Everything for the most part was simple once I was able to find the correct documents in w3schools, except for the 'switch' statements. I couldn't quite grasp what the first question was asking for me to do. But I'm sure once we go over it in class tomorrow, it'll be something I overlooked and overcomplicated myself. 
 
 ## Day 1 Week 2 Project
 

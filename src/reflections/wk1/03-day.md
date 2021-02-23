@@ -16,7 +16,7 @@
 
 ## Personal Journal Entry
 
-    Today we learned about bootstrap. Boy does bootstrap make styling easier. Can't wait to put bootstrap more into practice.
+Today we learned about bootstrap. Boy does bootstrap make styling easier. Can't wait to put bootstrap more into practice.
 
 
 ## Day 3 - Week 1 Project

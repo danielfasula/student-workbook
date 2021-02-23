@@ -18,7 +18,7 @@
 
 ## Personal Journal Entry
 
-    Today felt really good! Everything is making sense, and I'm feeling pretty confident in Proxy States and Encapsulation. It's nice being able to go into a project, do what is required with somewhat ease, and be able to try new things and push myself to code out of my comfort zone. I was able to figure out the Navs and Tabs for my gregs list and it turned out SICK!
+ Today felt really good! Everything is making sense, and I'm feeling pretty confident in Proxy States and Encapsulation. It's nice being able to go into a project, do what is required with somewhat ease, and be able to try new things and push myself to code out of my comfort zone. I was able to figure out the Navs and Tabs for my gregs list and it turned out SICK!
 
 
 ## Day 3 Week 3 -  Project
