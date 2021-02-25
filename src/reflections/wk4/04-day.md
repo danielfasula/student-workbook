@@ -17,5 +17,9 @@
 
 ## Personal Journal Entry
 
+ Group project went really well. My partner Ethan is a genius, and it was cool to be able to bounce ideas off of eachother, and work through our problems with ease.
+
 
 ## Day 4 Week 4 -  Project
+
+https://github.com/danielfasula/music

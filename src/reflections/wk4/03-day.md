@@ -17,6 +17,8 @@
 
 ## Personal Journal Entry
 
+ PokeAPI was such a fun project. So much nostalgia creating a project and using pieces of my childhood in it. The thing I had the hardest time with was transferring the data from one server to the next, but I was able to figure it out by the end of the day.
+
 ## Day 3 Week 4 -  Project
 
 https://github.com/danielfasula/pokeapi
