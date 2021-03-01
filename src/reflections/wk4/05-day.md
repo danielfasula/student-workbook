@@ -1,8 +1,3 @@
-# Journal Day 5 - Week 4
+## Day 5 Week 3 -  Project
 
-## Daily Journal Questions
-
-## Personal Journal Entry
-
-
-## Day 5 Week 4 -  Project
+https://danielfasula.github.io/inspire/
