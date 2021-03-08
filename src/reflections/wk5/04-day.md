@@ -16,5 +16,6 @@
 
 ## Personal Journal Entry
 
+ Learning Auth was somewhat difficult! A lot of moving parts to remember, but once you understand the flow of things, it became much simpler. Cant wait to practice with it more throughout the course.
 
 ## Day 4 Week 5 -  Project

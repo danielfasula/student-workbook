@@ -16,5 +16,6 @@
 
 ## Personal Journal Entry
 
+ The planet project was really fun. Extrememly helpful in understanding the relationships between data types and how they interact with eachother. Many to Many relationships aren't as difficult as they seem to be.
 
 ## Day 3 Week 5 -  Project
