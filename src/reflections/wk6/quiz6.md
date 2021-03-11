@@ -3,55 +3,55 @@
 **1.** When using the Vue `cli` what is the command to initialize a project?
 <!-- enter you answer in the space below -->
 ```
-
+vue create <app-name>
 ```
-**2.** Where can you find the scripts to startup you project on localhost?
+**2.** Where can you find the scripts to startup your project on localhost?
 <!-- enter you answer in the space below -->
 ```
-
+package.json
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+v-for
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
 ```
-
+template, script, style
 ```
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+L: Liskov Substitution. The principle defines that objects of a superclass shall be replaceable with objects of its subclasses without breaking the application.
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+link-router
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+AppState saves data and is useable throughout the application, and the state object is data only useable within that component.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+Services are for taking on the functions that reach out the the api or the appstate. Still mostly the same functionality as before we learned vue.
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 ```
-
+App.vue
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-
+Style, scoped.
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+computed
 ```
