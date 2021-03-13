@@ -16,5 +16,9 @@
 
 ## Personal Journal Entry
 
+ As per usual, group projects are tougher than usual. For some reason, I tend to draw more blanks while in a group environment than solo projects. I feel like its much easier to lose your train of thought while trying to communicate objectives with others. So I'm definitely identifying a weakness for myself, and something I can strive to overcome!
+
 
 ## Day 4 Week 6 -  Project
+
+https://github.com/danielfasula/vue-pokemon

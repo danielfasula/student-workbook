@@ -16,6 +16,8 @@
 
 ## Personal Journal Entry
 
+ The vue-nasa project was really fun. Really drives it home having to understand api's/servers, and knowing how to drill into the data to find what you need. The nasa server was tough at first, but once I got it figured out and how to pull out the data I needed, it was really simple.
+
 
 ## Day 2 Week 6 -  Project
 
