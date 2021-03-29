@@ -2,7 +2,9 @@
 
 ## Daily Journal Questions
 
-## Personal Journal Entry
+1. What is Software Development Testing?
 
 
-## Day 3 Week 4 -  Project
+2. What are the benefits of Testing in software development?
+
+3. What are some potential drawbacks of Testing in software development?
