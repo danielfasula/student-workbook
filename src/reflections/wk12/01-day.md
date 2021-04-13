@@ -1,8 +1,3 @@
-# Journal Day 1 - Week 4
+# Journal Day 1 - Week 12
 
 ## Daily Journal Questions
-
-## Personal Journal Entry
-
-
-## Day 1 Week 4 -  Project
