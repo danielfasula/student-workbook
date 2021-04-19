@@ -40,3 +40,7 @@ CREATE TABLE doctorpatients (
 SELECT * FROM doctorpatients dp
 INNER JOIN patients p ON p.id = dp.patientId
 INNER JOIN doctors d ON d.id = dp.doctorId;
+
+## Project
+
+https://github.com/danielfasula/contractor
